@@ -44,27 +44,3 @@ C:\Users\leona\OneDrive - Universiteit Utrecht\Documenten\Studie\Software engine
 C:\Users\leona\OneDrive - Universiteit Utrecht\Documenten\Studie\Software engineering\MSOProjectLab2\MSOProjectLab2\bin\Debug\net8.0-windows\MSOProjectLab2.pdb
 C:\Users\leona\OneDrive - Universiteit Utrecht\Documenten\Studie\Software engineering\MSOProjectLab2\MSOProjectLab2\obj\Debug\net8.0-windows\MSOProjectLab2.genruntimeconfig.cache
 C:\Users\leona\OneDrive - Universiteit Utrecht\Documenten\Studie\Software engineering\MSOProjectLab2\MSOProjectLab2\obj\Debug\net8.0-windows\ref\MSOProjectLab2.dll
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\obj\Debug\net8.0-windows\MSOProjectLab2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\obj\Debug\net8.0-windows\MSOProjectLab2.AssemblyInfoInputs.cache
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\obj\Debug\net8.0-windows\MSOProjectLab2.AssemblyInfo.cs
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\obj\Debug\net8.0-windows\MSOProjectLab2.csproj.CoreCompileInputs.cache
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\obj\Debug\net8.0-windows\MSOProjectLab2.sourcelink.json
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\obj\Debug\net8.0-windows\MSOProjectLab2.dll
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\obj\Debug\net8.0-windows\refint\MSOProjectLab2.dll
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\obj\Debug\net8.0-windows\MSOProjectLab2.pdb
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\bin\Debug\net8.0-windows\MSOProjectLab2.exe
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\bin\Debug\net8.0-windows\Programs\Advanced\Rectangle2.txt
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\bin\Debug\net8.0-windows\Programs\Advanced\Rectangle4.txt
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\bin\Debug\net8.0-windows\Programs\Advanced\ZigZag3.txt
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\bin\Debug\net8.0-windows\Programs\Basic\Rectangle1.txt
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\bin\Debug\net8.0-windows\Programs\Basic\Rectangle3.txt
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\bin\Debug\net8.0-windows\Programs\Basic\Spiral.txt
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\bin\Debug\net8.0-windows\MSOProjectLab2.deps.json
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\bin\Debug\net8.0-windows\MSOProjectLab2.runtimeconfig.json
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\bin\Debug\net8.0-windows\MSOProjectLab2.dll
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\bin\Debug\net8.0-windows\MSOProjectLab2.pdb
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\obj\Debug\net8.0-windows\MSOProjectLab2.genruntimeconfig.cache
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\obj\Debug\net8.0-windows\ref\MSOProjectLab2.dll
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\bin\Debug\net8.0-windows\Programs\Expert\ComplexPattern.txt
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\bin\Debug\net8.0-windows\Programs\Expert\DoubleSquare.txt
-C:\Users\madsk\RiderProjects\MSOFinalLab\MSOProjectLab2\bin\Debug\net8.0-windows\Programs\Expert\Random.txt
