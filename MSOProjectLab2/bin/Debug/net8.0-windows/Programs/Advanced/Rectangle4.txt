@@ -1,0 +1,5 @@
+repeat 2 times
+    Move 15
+    Turn right
+    Move 8
+    Turn right
