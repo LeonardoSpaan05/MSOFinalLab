@@ -5527,24 +5527,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\leona\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\madsk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leona\\OneDrive - Universiteit Utrecht\\Documenten\\Studie\\Software engineering\\MSOProjectLab2\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\madsk\\RiderProjects\\MSOFinalLab\\TestProject1\\TestProject1.csproj",
       "projectName": "TestProject1",
-      "projectPath": "C:\\Users\\leona\\OneDrive - Universiteit Utrecht\\Documenten\\Studie\\Software engineering\\MSOProjectLab2\\TestProject1\\TestProject1.csproj",
-      "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leona\\OneDrive - Universiteit Utrecht\\Documenten\\Studie\\Software engineering\\MSOProjectLab2\\TestProject1\\obj\\",
+      "projectPath": "C:\\Users\\madsk\\RiderProjects\\MSOFinalLab\\TestProject1\\TestProject1.csproj",
+      "packagesPath": "C:\\Users\\madsk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\madsk\\RiderProjects\\MSOFinalLab\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\madsk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5558,8 +5553,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\leona\\OneDrive - Universiteit Utrecht\\Documenten\\Studie\\Software engineering\\MSOProjectLab2\\MSOProjectLab2\\MSOProjectLab2.csproj": {
-              "projectPath": "C:\\Users\\leona\\OneDrive - Universiteit Utrecht\\Documenten\\Studie\\Software engineering\\MSOProjectLab2\\MSOProjectLab2\\MSOProjectLab2.csproj"
+            "C:\\Users\\madsk\\RiderProjects\\MSOFinalLab\\MSOProjectLab2\\MSOProjectLab2.csproj": {
+              "projectPath": "C:\\Users\\madsk\\RiderProjects\\MSOFinalLab\\MSOProjectLab2\\MSOProjectLab2.csproj"
             }
           }
         }
@@ -5612,7 +5607,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\leona\\.dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

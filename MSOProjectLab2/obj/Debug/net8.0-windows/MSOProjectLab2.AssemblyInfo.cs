@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MSOProjectLab2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dfe79ceebe8b5fe90c37381fedacb4584bdeed2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+774c915cb020269b33aa587213d676627a6d0bf3")]
 [assembly: System.Reflection.AssemblyProductAttribute("MSOProjectLab2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MSOProjectLab2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
