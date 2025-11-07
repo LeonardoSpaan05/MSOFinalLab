@@ -5532,11 +5532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\madsk\\RiderProjects\\MSOFinalLab\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\madsk\\OneDrive\\Documenten\\MSO\\FinalLab\\TestProject1\\TestProject1.csproj",
       "projectName": "TestProject1",
-      "projectPath": "C:\\Users\\madsk\\RiderProjects\\MSOFinalLab\\TestProject1\\TestProject1.csproj",
+      "projectPath": "C:\\Users\\madsk\\OneDrive\\Documenten\\MSO\\FinalLab\\TestProject1\\TestProject1.csproj",
       "packagesPath": "C:\\Users\\madsk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\madsk\\RiderProjects\\MSOFinalLab\\TestProject1\\obj\\",
+      "outputPath": "C:\\Users\\madsk\\OneDrive\\Documenten\\MSO\\FinalLab\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\madsk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5553,8 +5553,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\madsk\\RiderProjects\\MSOFinalLab\\MSOProjectLab2\\MSOProjectLab2.csproj": {
-              "projectPath": "C:\\Users\\madsk\\RiderProjects\\MSOFinalLab\\MSOProjectLab2\\MSOProjectLab2.csproj"
+            "C:\\Users\\madsk\\OneDrive\\Documenten\\MSO\\FinalLab\\MSOProjectLab2\\MSOProjectLab2.csproj": {
+              "projectPath": "C:\\Users\\madsk\\OneDrive\\Documenten\\MSO\\FinalLab\\MSOProjectLab2\\MSOProjectLab2.csproj"
             }
           }
         }
